@@ -5,6 +5,7 @@ package com.atguigu.constant;
  */
 public class MessageConstant {
     int zx;
+    int zxx;
     public static final String DELETE_TRAVELITEM_FAIL = "删除自由行失败";
     public static final String DELETE_TRAVELITEM_SUCCESS = "删除自由行成功";
     public static final String ADD_TRAVELITEM_SUCCESS = "新增自由行成功";
