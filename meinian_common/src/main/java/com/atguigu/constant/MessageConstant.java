@@ -4,7 +4,6 @@ package com.atguigu.constant;
  * 消息常量
  */
 public class MessageConstant {
-    int i = 1;
     public static final String DELETE_TRAVELITEM_FAIL = "删除自由行失败";
     public static final String DELETE_TRAVELITEM_SUCCESS = "删除自由行成功";
     public static final String ADD_TRAVELITEM_SUCCESS = "新增自由行成功";
@@ -67,6 +66,4 @@ public class MessageConstant {
     public static final String EXPORT_BUSINESS_REPORT_FAIL = "导出运营统计数据失败";
     public static final String GET_SETMEAL_LIST_SUCCESS = "查询套餐列表数据成功";
     public static final String GET_SETMEAL_LIST_FAIL = "查询套餐列表数据失败";
-    int k = 1;
-    int c = 1;
 }
